@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863089718054",
+    "project_id": "toko-tanaman-polaris",
+    "storage_bucket": "toko-tanaman-polaris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863089718054:android:3e90803b851257631fc7e7",
+        "android_client_info": {
+          "package_name": "com.example.toko_tanaman_polaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863089718054-t60fmk5nh9jbtkdo4bpv8bkjpfm9qj1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVYrz61_s4XKLC8glJ-3LTloMYUOyfY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863089718054-t60fmk5nh9jbtkdo4bpv8bkjpfm9qj1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
